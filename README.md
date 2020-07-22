@@ -1,8 +1,3 @@
-img{
-
-
-}
-
 # TriangleWhiteBoard
 
 # Project requirements:
