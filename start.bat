@@ -1,0 +1,1 @@
+"c:\Program Files\Java\jdk1.8.0_251\bin\appletviewer" Board.htm
