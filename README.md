@@ -1,3 +1,8 @@
+img{
+
+
+}
+
 # TriangleWhiteBoard
 
 # Project requirements:
@@ -9,4 +14,25 @@
      1. The intersections of the special lines will be marked with a red dot.
      1. The "Restart" button will clear the white board and let the user to start over.
      1. While the triangle is not complete, the "Medians", "Bisectors" and "Heights" buttons will remain <b>inactive</b>.
- * The main dots can be moved around the circumscribed circle. The triangle will change accordingly. If present, the red dot inside the triangle will leave a green trace.
+ * The main 3 dots can be mouse-dragged around the circumscribed circle. The triangle will change accordingly. If present, the red dot inside the triangle will leave a green trace.
+ * The circumscribed circle can be resized through a mouse-drag. The triangle will change accordingly. 
+ 
+# Rezults:
+### The creation of the triangle:
+<img src = "images/createTriangle.gif" width = 450 top = 100px>
+
+### The resizing of the circle:
+<img src = "images/resize.gif" width = 450  margin-right : 30%>
+
+###  The "Bisectors" button: 
+<img src = "images/bisectoare.gif" width = 450>
+
+### The "Medians" button:
+<img src = "images/mediane.gif" width = 450>
+
+### The "Heights" button:
+<img src = "images/inaltimi.gif" width = 450>
+
+### The "Restart" button:
+<img src = "images/restart.gif" width = 450>
+
