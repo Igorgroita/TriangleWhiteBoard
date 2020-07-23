@@ -14,10 +14,10 @@
  
 # Rezults:
 ### The creation of the triangle:
-<img src = "images/createTriangle.gif" width = 450 top = 100px>
+<img src = "images/createTriangle.gif" width = 450 >
 
 ### The resizing of the circle:
-<img src = "images/resize.gif" width = 450  margin-right : 30%>
+<img src = "images/resize.gif" width = 450  >
 
 ###  The "Bisectors" button: 
 <img src = "images/bisectoare.gif" width = 450>
